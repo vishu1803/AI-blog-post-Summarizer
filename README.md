@@ -8,15 +8,6 @@ This project fetches articles from a source (BeyondChats), analyzes them, and pe
 
 ---
 
-## 🔗 Live Demo (If Deployed)
-
-*(Optional — add if you’ve deployed)*
-Frontend: `https://beyondchats-assignments.vercel.app/`
-API Backend: `https://beyondchats-assignments.onrender.com/api/articles`
-AI Worker: `https://beyondchats-assignments-1.onrender.com`
-
----
-
 ## 🚀 Project Overview
 
 Modern content applications often need to summarize, improve readability, or reframe existing articles for SEO and user engagement. This platform does exactly that by combining:
